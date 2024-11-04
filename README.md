@@ -3,6 +3,9 @@
 ## Abstract
 This project creates an interactive Tableau dashboard to visualize and analyze used car sales data. The dashboard provides insights into sales trends, pricing comparisons, and relationships between key variables, facilitating data-driven decision-making.
 
+## Dashboard Visualization
+![Dashboard Visualization](Screenshot 2024-11-04 204435.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Research Study](#research-study)
@@ -90,7 +93,7 @@ Enhanced decision-making and strategic planning.
 The study effectively analyzes used car sales data, offering insights that improve pricing strategies and inventory management.
 
 ## Dashboard Visualization
-![Dashboard Visualization](path/to/your/image.png)
+![Dashboard Visualization](Screenshot 2024-11-04 204435.png)
 
 ## Getting Started
 Follow the setup instructions to visualize the data in Tableau.
